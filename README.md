@@ -4,7 +4,7 @@
 
 ## Live Demo
 🌐 **Live App:** https://paper-iq-ai.vercel.app
-🎬 **Demo Video:** 
+🎬 **Demo Video:**  https://drive.google.com/file/d/11AZ-uZX_tw-gukNEV0FnO8bjfs1j3Sm0/view?usp=sharing  
 
 ## Backend API
 https://paperiq-backend.onrender.com/health
@@ -21,7 +21,7 @@ https://paperiq-backend.onrender.com/health
 ## Tech Stack
 - **Frontend**: React + Recharts + Vite
 - **Backend**: Python FastAPI
-- **AI**: Anthropic Claude Sonnet (claude-sonnet-4-20250514)
+- **AI**: Grok
 
 ## Setup
 ```bash
