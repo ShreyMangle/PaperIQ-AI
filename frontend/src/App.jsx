@@ -12,7 +12,10 @@ export default function App() {
   setLoading(true)
   setError("")
   try {
-      const res = await fetch("/api/analyze", { method: "POST", body: formData })
+      const res = await fetch(`${import.meta.env.VITE_API_URL || ''}/analyze`, {
+      method: "POST",
+      body: formData
+      })
       if (!res.ok) throw new Error(await res.text())
       const data = await res.json()
       setResult(data)
