@@ -23,7 +23,7 @@
 ```bash
 # Backend
 cd backend && pip install -r requirements.txt
-echo "GEMINI_API_KEY=your-key" > .env
+echo "GROK_API_KEY=your-key" > .env
 uvicorn main:app --reload
 
 # Frontend
