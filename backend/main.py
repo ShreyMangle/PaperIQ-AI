@@ -10,7 +10,7 @@ app = FastAPI(title="Past Paper Analyzer API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["https://paper-iq-ai.vercel.app"],
     allow_methods=["*"],
     allow_headers=["*"],
 )

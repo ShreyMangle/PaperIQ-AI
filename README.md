@@ -2,8 +2,12 @@
 
 > AI-powered exam prep tool that analyzes past papers, ranks topics by importance, and generates a smart study plan.
 
-## Demo Video
-[🎬 Watch demo](YOUR_DRIVE_LINK_HERE)
+## Live Demo
+🌐 **Live App:** https://paper-iq-ai.vercel.app
+🎬 **Demo Video:** 
+
+## Backend API
+https://paperiq-backend.onrender.com/health
 
 ## Features
 - Multi-paper upload (PDF + images)
