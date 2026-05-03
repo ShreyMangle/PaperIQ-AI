@@ -11,7 +11,7 @@ https://paperiq-backend.onrender.com/health
 
 ## Features
 - Multi-paper upload (PDF + images)
-- AI topic extraction using Claude (vision + text)
+- AI topic extraction 
 - Topic importance scoring & ranking
 - Syllabus gap detection
 - Smart week-by-week study planner
